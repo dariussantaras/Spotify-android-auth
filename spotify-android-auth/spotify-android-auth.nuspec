@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>DariusS</authors>
+    <owners>DariusS</owners>
+    <license type="expression">Apache-2.0</license>
+    <projectUrl>https://github.com/IMBA0/Spotify-android-auth</projectUrl>
+    <repository type="git" url="https://github.com/IMBA0/Spotify-android-auth.git" branch="master"/>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android bindings for the spotify android auth package</description>
+    <releaseNotes>Initial release of the bindings library.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>xamarin android spotify auth sdk bindings</tags>
+  </metadata>
+</package>
